@@ -53,7 +53,7 @@ interface Compare{
 
 ## @FunctionalInterface
 @FunctionalInterface注解用来修饰函数式接口，要求接口只有一个需要实现的方法，比如Runnable接口用这个注解标识。如果有多个方法的话就会报错。
-[![17yYuj.md.png](https://s2.ax1x.com/2020/02/12/17yYuj.md.png)](https://imgchr.com/i/17yYuj)
+[![17yYuj.md.png](https://s2.ax1x.com/2020/02/12/17yYuj.md.png)]
 
 编译错误
 [![176Crj.md.png](https://s2.ax1x.com/2020/02/12/176Crj.md.png)](https://imgchr.com/i/176Crj)
