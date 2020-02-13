@@ -53,10 +53,10 @@ interface Compare{
 
 ## @FunctionalInterface
 @FunctionalInterface注解用来修饰函数式接口，要求接口只有一个需要实现的方法，比如Runnable接口用这个注解标识。如果有多个方法的话就会报错。
-[![17yYuj.md.png](https://s2.ax1x.com/2020/02/12/17yYuj.md.png)]
+![17yYuj.md.png](https://s2.ax1x.com/2020/02/12/17yYuj.md.png)
 
 编译错误
-[![176Crj.md.png](https://s2.ax1x.com/2020/02/12/176Crj.md.png)](https://imgchr.com/i/176Crj)
+![176Crj.md.png](https://s2.ax1x.com/2020/02/12/176Crj.md.png)
 
 
 ## Lambda表达式语法
@@ -371,11 +371,11 @@ public class LambdaTest4 {
 
 }
 ```
-[![1HV1xA.md.png](https://s2.ax1x.com/2020/02/12/1HV1xA.md.png)](https://imgchr.com/i/1HV1xA)
+![1HV1xA.md.png](https://s2.ax1x.com/2020/02/12/1HV1xA.md.png)
 
 ## 集合遍历
 我们可以用foreach方法遍历元素，Consumer 接口是 jdk 为我们提供的一个函数式接口。
-[![1HljW6.md.png](https://s2.ax1x.com/2020/02/12/1HljW6.md.png)](https://imgchr.com/i/1HljW6)
+![1HljW6.md.png](https://s2.ax1x.com/2020/02/12/1HljW6.md.png)
 ```java
 /**
  * @Title: LambdaTest5
